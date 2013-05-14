@@ -15,6 +15,9 @@ Pyduhi 是 python 版本的 baiduhi 聊天客户端，目前是 0.1 版本，所
 ## 现在有哪些版本？
 暂时我只提供 mac 版本（因为我自己用mac），linux版本之后会推出，windows版本以后也会考虑推出的。
 
+## 有问题怎么反馈呢？？
+直接通过 github issues 给我提 bug 或者 feature request 吧，谢谢。
+
 ## 源码呢？？？
 抱歉，因为某些原因，源码我暂时没法开放。放github最主要是为了他的issues。。
 

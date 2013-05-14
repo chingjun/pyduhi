@@ -1,7 +1,7 @@
 # Pyduhi
 Pyduhi 是 python 版本的 baiduhi 聊天客户端，目前是 0.1 版本，所以功能还不是很完善。但是已经是相当突破性的了，因为是历史上首次出现的非官方版本！
 
-下载请点击[这里](http://pan.baidu.com/share/link?shareid=419508&uk=2735308987)
+下载请点击**[这里](http://pan.baidu.com/share/link?shareid=419508&uk=2735308987)** <----- 就是这个！！这个就是下载链接！！
 
 如果遇到了什么问题，请你通过 github 的 issue 来告诉我。谢谢。
 
